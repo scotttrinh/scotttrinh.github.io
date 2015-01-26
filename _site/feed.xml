@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trinhgineer</title>
+    <description>Personal blog of Scott Trinh, a web developer from Atlanta, Georgia, United States. Mostly about technology, with a light smattering of philosophy, economics and local affairs.
+</description>
+    <link>http://scotttrinh.github.io/</link>
+    <atom:link href="http://scotttrinh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Jan 2015 18:07:37 -0500</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2015 18:07:37 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jekyll</title>
+        <description>&lt;h1 id=&quot;jekyll&quot;&gt;Jekyll!&lt;/h1&gt;
+
+&lt;p&gt;I’ve overcome my first AngularJS struggle that Google did not help
+with, so that seemed enough occasion to crank up the ol’ blog, and switch
+over to Jekyll! The post is forthcoming.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Jan 2015 00:00:00 -0500</pubDate>
+        <link>http://scotttrinh.github.io/2015/01/26/jekyll.html</link>
+        <guid isPermaLink="true">http://scotttrinh.github.io/2015/01/26/jekyll.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
